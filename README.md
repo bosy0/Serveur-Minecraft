@@ -1,2 +1,2 @@
-# La Vraie Parole
-Le serveur Minecraft de Nathan BOSY
+# Le serveur Minecraft de Nathan BOSY
+
