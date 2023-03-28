@@ -7,7 +7,7 @@ Projet lancé en fin d'année 2022, pour d'une part jouer avec mes amis mais ég
 
 - Minecraft Java en 1.19.3
 - Compatible sur Minecraft Bedrock edition
-- Serveur sur PaperMC
+- Serveur basé sur PaperMC
 
 
 
