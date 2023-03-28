@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.129.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671737555893
+  login: 1671737549535
+money: '0'
+last-account-name: guilhem0011
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 944.0601297823939
+  y: 52.0
+  z: -638.6749375364527
+  yaw: -99.53167724609375
+  pitch: 56.49671936035156

@@ -1,0 +1,62 @@
+# WELCOME TO THE OFFICIAL SLEEP-MOST PLUGIN
+# AUTHORS: MrGeneralQ
+# CONTRIBUTORS: Malin, Nozemi, HorrendousEntity
+# VERSION: 5.1.3
+# SUPPORT NEEDED? Join our discord at --> https://discord.pseudonova.com/ WE ARE HAPPY TO HELP YOU FURTHER!
+# YOU CAN FIND THE DOCS FOR THIS PLUGIN HERE --> https://mrgeneralq.gitbook.io/sleepmost/
+
+
+# WARNING: SUPPORT IS ONLY GIVEN TO THE LATEST VERSION
+update-checker-enabled: true
+
+sleep:
+  # for each world, you can create different configurations
+  world:
+    enabled: true
+    calculation-method: percentage
+    percentage-required: 0.5
+    players-required: 5
+    mob-no-target: true
+    use-exempt: false
+    use-afk: false
+    use-bossbar: true
+    use-sound-night-skipped: true
+    use-sound-storm-skipped: true
+    use-title-night-skipped: false
+    use-title-storm-skipped: false
+    exempt-creative: false
+    exempt-spectator: false
+    prevent-sleep: false
+    prevent-phantom: false
+    nightcycle-animation: false
+    storm-sleep: true
+    skip-delay: 0
+    heal: false
+    feed: false
+    skip-night-sound: ui.toast.challenge_complete
+    skip-storm-sound: entity.wither.spawn
+    allow-sleep-cmd: true
+    phantom-reset-audience: all
+    non-sleeping-title: false
+    skip-storm: true
+    non-sleeping-sound: false
+    allow-kick: false
+    exempt-flying: false
+    dynamic-animation-speed: false
+    insomnia-milk: false
+    exempt-below-y: -1
+    longer-night-duration: 0
+    insomnia-chance: 0.0
+    clock-animation: true
+    non-sleeping-clock-animation: false
+    gsit-hook: false
+    gsit-sleep: true
+
+# specify the time which the world will be set after reset
+time-after-reset: 0
+
+messages:
+  cooldown: 10
+
+# debug mode
+debug-mode: false

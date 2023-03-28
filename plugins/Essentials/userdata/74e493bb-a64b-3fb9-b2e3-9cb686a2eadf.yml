@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.129.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671639249314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671737617145
+  login: 1671737610835
+money: '0'
+last-account-name: coolthor2004
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 835.8365827477701
+  y: 255.0
+  z: -390.50946577231633
+  yaw: 10.951171875
+  pitch: 90.0
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 784.2421406829774
+  y: -13.0
+  z: -777.8973638510028
+  yaw: 10.26312255859375
+  pitch: 4.206023216247559

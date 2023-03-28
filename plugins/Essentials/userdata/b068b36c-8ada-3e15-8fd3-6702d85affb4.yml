@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.66.211.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1670521490370
+  login: 1670521446107
+money: '0'
+last-account-name: EuZeBio6511
+lastlocation:
+  world: d4ab1574-d78f-496a-95bf-ef974df65d02
+  world-name: world
+  x: 6.5
+  y: 98.0
+  z: -4.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d4ab1574-d78f-496a-95bf-ef974df65d02
+  world-name: world
+  x: -9.409995
+  y: 96.0
+  z: -1.4499967
+  yaw: -3.455810546875
+  pitch: 55.00993347167969

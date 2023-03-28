@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.65.111.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674239355688
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674239639833
+  login: 1674238676610
+money: '0'
+last-account-name: FoxtrotM
+logoutlocation:
+  world: 95560218-f390-4219-8d6a-dec6ed601344
+  world-name: world_the_end
+  x: 274.2446538994039
+  y: 12.0
+  z: 2.1619052084951296
+  yaw: 156.49301147460938
+  pitch: 38.099609375
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 753.0483867196369
+  y: 63.0
+  z: -1016.6999999880791
+  yaw: -159.1328125
+  pitch: -10.751503944396973
+homes:
+  home:
+    world: 95560218-f390-4219-8d6a-dec6ed601344
+    world-name: world_the_end
+    x: 273.30000001192093
+    y: 10.0
+    z: 1.6067112186317036
+    yaw: -92.78070068359375
+    pitch: 41.250030517578125

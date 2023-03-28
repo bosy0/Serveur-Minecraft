@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.170.54.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671898887398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675246030962
+  login: 1675245910722
+money: '0'
+last-account-name: NathanBOSY
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 856.58636
+  y: 88.0
+  z: -1017.6899
+  yaw: -92.30632781982422
+  pitch: 12.05718994140625
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 846.77637
+  y: 77.0
+  z: -1006.6929
+  yaw: -20.670806884765625
+  pitch: 61.675994873046875
+homes:
+  home:
+    world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+    world-name: world
+    x: 860.12256
+    y: 88.0
+    z: -1017.53235
+    yaw: -86.68270874023438
+    pitch: 35.164703369140625

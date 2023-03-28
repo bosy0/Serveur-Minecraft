@@ -1,0 +1,185 @@
+[05:01:24] [ServerMain/INFO]: Building unoptimized datafixer
+[05:01:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:01:46] [ServerMain/INFO]: Loaded 7 recipes
+[05:01:51] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[05:01:51] [Server thread/INFO]: Loading properties
+[05:01:52] [Server thread/INFO]: This server is running Paper version git-Paper-416 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT) (Git: 87bb3e6)
+[05:01:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:01:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:01:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[05:01:56] [Server thread/INFO]: Default game type: SURVIVAL
+[05:01:56] [Server thread/INFO]: Generating keypair
+[05:01:57] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25600
+[05:01:57] [Server thread/INFO]: Using epoll channel type
+[05:01:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:01:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:01:58] [Server thread/INFO]: [SpigotLibraryLoader] [NexEngine] Loading 2 libraries... please wait
+[05:01:59] [Server thread/INFO]: [SpigotLibraryLoader] [NexEngine] Loaded library /home/container/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[05:01:59] [Server thread/INFO]: [SpigotLibraryLoader] [NexEngine] Loaded library /home/container/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[05:01:59] [Server thread/INFO]: [SpigotLibraryLoader] [NexEngine] Loaded library /home/container/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[05:01:59] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.0.0-SNAPSHOT-b614
+[05:02:09] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.0-dev+44-43d84de
+[05:02:09] [Server thread/INFO]: [NexEngine] Loading server plugin NexEngine v2.2.9 build-20/02/2023
+[05:02:09] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9
+[05:02:10] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.0-dev+44-43d84de
+[05:02:10] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.1.0-SNAPSHOT
+[05:02:15] [Server thread/INFO]: [Geyser-Spigot] Chargement des extensions...
+[05:02:15] [Server thread/INFO]: [Geyser-Spigot] 0 extensions chargé(s)
+[05:02:15] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.0-dev+44-43d84de
+[05:02:15] [Server thread/INFO]: [ExcellentEnchants] Loading server plugin ExcellentEnchants v3.3.0.4
+[05:02:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v14.2.8
+[05:02:15] [Server thread/INFO]: [ActionHealth] Loading server plugin ActionHealth v3.5.8
+[05:02:15] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.2.5
+[05:02:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:02:15] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.0.0-SNAPSHOT-b614
+[05:02:15] [Server thread/INFO]: [NexEngine] Enabling NexEngine v2.2.9 build-20/02/2023
+[05:02:15] [Server thread/INFO]: [NexEngine] Loaded NMS version: V1_19_R2
+[05:02:15] [Server thread/INFO]: [NexEngine] Seems like we have Paper based fork here...
+[05:02:16] [Server thread/INFO]: [NexEngine] Using 'en' language.
+[05:02:16] [Server thread/INFO]: [NexEngine] Plugin loaded in 992 ms!
+[05:02:16] [Server thread/INFO]: [ExcellentEnchants] Enabling ExcellentEnchants v3.3.0.4
+[05:02:16] [Server thread/INFO]: [ExcellentEnchants] Powered by: NexEngine
+[05:02:17] [Server thread/INFO]: [ExcellentEnchants] Using 'en' language.
+[05:02:17] [Server thread/INFO]: [ExcellentEnchants] Tiers Loaded: 5
+[05:02:18] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blast_mining
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_breaking
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_misfortune
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: divine_touch
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: haste
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lucky_miner
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: replanter
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: silk_chest
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: smelter
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: telekinesis
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: treasures
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: tunnel
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: veinminer
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bane_of_netherspawn
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_aspect
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: infernus
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: venom
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exhaust
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: wither
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: paralyze
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exp_hunter
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: decapitator
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cutter
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusion
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_strike
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: nimble
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blindness
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampire
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cure
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rage
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: scavenger
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: surprise
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: temper
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thrifty
+[05:02:19] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thunder
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: village_defender
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rocket
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: elemental_protection
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: fire_shield
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flame_walker
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hardened
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_shield
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cold_steel
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: self_destruction
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: saturation
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: aquaman
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: night_vision
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bunny_hop
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sonic
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: regrowth
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bomber
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusing_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: dragonfire_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: electrified_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ender_bow
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ghast
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hover
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: poisoned_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: withered_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: explosive_arrows
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_fragility
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Enchantments Registered: 61
+[05:02:20] [Server thread/INFO]: [ExcellentEnchants] Plugin loaded in 4092 ms!
+[05:02:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:02:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:02:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:02:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:02:20] [Server thread/INFO]: Preparing level "world"
+[05:02:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:02:28] [Server thread/INFO]: Time elapsed: 1215 ms
+[05:02:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:02:29] [Server thread/INFO]: Time elapsed: 504 ms
+[05:02:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:02:29] [Server thread/INFO]: Time elapsed: 216 ms
+[05:02:29] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0-dev+44-43d84de
+[05:02:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:02:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:02:36] [Server thread/INFO]: [Essentials] Loaded 38132 items from items.json.
+[05:02:36] [Server thread/WARN]: [Essentials] No aliases found in custom_items.yml.
+[05:02:36] [Server thread/INFO]: [Essentials] Using locale fr
+[05:02:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:02:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:02:37] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[05:02:37] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[05:02:37] [Server thread/INFO]: [Graves] Enabling Graves v4.9
+[05:02:37] [Server thread/INFO]: [Graves] Integration: Hooked into ProtocolLib 5.0.0-SNAPSHOT-b614.
+[05:02:37] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[05:02:37] [Server thread/INFO]: [Graves] Compatibility: Essentials Detected, make sure you don't have the essentials.keepinv or essentials.keepxp permissions.
+[05:02:39] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.0-dev+44-43d84de
+[05:02:40] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:02:40] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.0-SNAPSHOT
+[05:02:40] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.0-dev+44-43d84de
+[05:02:40] [Server thread/INFO]: [EssentialsChat] Secure signed chat and previews are enabled.
+[05:02:40] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:02:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.8
+[05:02:45] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_19_R2[32;1m, using [33;1mPaperSkinRefresher[32;1m.[0;39m
+[05:02:47] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[05:02:49] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[05:02:49] [Server thread/INFO]: [ActionHealth] Enabling ActionHealth v3.5.8
+[05:02:49] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.2.5
+[05:02:50] [Server thread/INFO]: Hooked to Essentials
+[05:02:52] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:02:52] [Server thread/INFO]: [Geyser-Spigot] 
+[05:02:52] [Server thread/INFO]: [Geyser-Spigot] Chargement Geyser version 2.1.0-SNAPSHOT (git-DEV-f0f5b68)
+[05:02:52] [Server thread/INFO]: [Geyser-Spigot] 
+[05:02:52] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:03:11] [Network Listener - #3/INFO]: [Geyser-Spigot] Geyser démarré sur 0.0.0.0:25600
+[05:03:11] [Server thread/INFO]: [Geyser-Spigot] Terminé (19.13s) ! Exécutez /geyser help pour de l'aide !
+[05:03:11] [Server thread/INFO]: Starting GS4 status listener
+[05:03:12] [Server thread/WARN]: Unable to initialise query system on 0.0.0.0:25600
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:?]
+	at sun.nio.ch.Net.bind(Net.java:555) ~[?:?]
+	at sun.nio.ch.DatagramChannelImpl.bindInternal(DatagramChannelImpl.java:1194) ~[?:?]
+	at sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:1164) ~[?:?]
+	at sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:107) ~[?:?]
+	at java.net.DatagramSocket.createDelegate(DatagramSocket.java:1416) ~[?:?]
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:331) ~[?:?]
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:390) ~[?:?]
+	at net.minecraft.server.rcon.thread.QueryThreadGs4.initSocket(QueryThreadGs4.java:328) ~[?:?]
+	at net.minecraft.server.rcon.thread.QueryThreadGs4.start(QueryThreadGs4.java:311) ~[?:?]
+	at net.minecraft.server.rcon.thread.QueryThreadGs4.create(QueryThreadGs4.java:79) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:319) ~[paper-1.19.3.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1101) ~[paper-1.19.3.jar:git-Paper-416]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.19.3.jar:git-Paper-416]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[05:03:12] [Server thread/INFO]: Running delayed init tasks
+[05:03:12] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Récupération des informations de version...
+[05:03:12] [Server thread/INFO]: Done (80.833s)! For help, type "help"
+[05:03:12] [Server thread/INFO]: Timings Reset
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.8[0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[05:03:15] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5165ms or 103 ticks behind
+[05:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6863ms or 137 ticks behind

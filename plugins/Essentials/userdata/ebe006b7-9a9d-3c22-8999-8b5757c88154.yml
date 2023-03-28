@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.142.29.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1676850894800
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676851127321
+  login: 1676849274761
+money: '0'
+last-account-name: remi_lami
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 796.5756410530336
+  y: 63.0
+  z: -986.4400214318238
+  yaw: -5.381815433502197
+  pitch: 20.749311447143555
+homes:
+  home:
+    world: 95560218-f390-4219-8d6a-dec6ed601344
+    world-name: world_the_end
+    x: -4634.569886289384
+    y: 58.0
+    z: 9005.876341338928
+    yaw: 138.24513244628906
+    pitch: 12.000268936157227
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 1348.7204467337658
+  y: 53.41303207851802
+  z: -2532.989014334827
+  yaw: -136.85433959960938
+  pitch: -20.549833297729492

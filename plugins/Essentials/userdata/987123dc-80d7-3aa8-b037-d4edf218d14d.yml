@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.129.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1670958496797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671737426391
+  login: 1671737419991
+money: '0'
+last-account-name: WearyYard846477
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 792.95294
+  y: 64.00301626150905
+  z: -995.7841
+  yaw: 155.49282836914062
+  pitch: 90.0
+nickname: Marika
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 761.8286
+  y: 95.0
+  z: -1095.8568
+  yaw: -57.4150390625
+  pitch: -2.80792236328125

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.70.129.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1671621420929
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671737398092
+  login: 1671737391738
+money: '0'
+last-account-name: Girafeimposante
+lastlocation:
+  world: a7167ce8-f7b1-4bfe-91ee-847c5b94a2a5
+  world-name: world_nether
+  x: -725.19666
+  y: 32.0
+  z: 229.48996
+  yaw: 36.0289306640625
+  pitch: 27.54376220703125
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 770.70264
+  y: 113.0625
+  z: -1090.4431
+  yaw: -153.7635040283203
+  pitch: 46.30364990234375

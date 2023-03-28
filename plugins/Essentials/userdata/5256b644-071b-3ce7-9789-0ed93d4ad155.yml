@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.165.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677886882856
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677926731683
+  login: 1677926704189
+money: '0'
+last-account-name: Le_Nathan
+lastlocation:
+  world: 95560218-f390-4219-8d6a-dec6ed601344
+  world-name: world_the_end
+  x: 2.5
+  y: 57.0
+  z: 237.5
+  yaw: -7.789130210876465
+  pitch: 20.70037269592285
+homes:
+  home:
+    world: 95560218-f390-4219-8d6a-dec6ed601344
+    world-name: world_the_end
+    x: 2.5994612989594494
+    y: 57.0
+    z: 237.3344340881728
+    yaw: -90.58929443359375
+    pitch: 88.35034942626953
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 765.1120234585348
+  y: 58.20359048060664
+  z: -1022.2243596827711
+  yaw: -109.025146484375
+  pitch: 13.248470306396484

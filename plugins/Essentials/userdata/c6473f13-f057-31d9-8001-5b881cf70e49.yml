@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.160.124.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674339085800
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674339130701
+  login: 1674338277710
+money: '0'
+last-account-name: CorveeMonster90
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 765.7849907039941
+  y: 81.0
+  z: -1044.079742024585
+  yaw: 113.94155883789062
+  pitch: 17.579421997070312
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 954.2341466378728
+  y: 60.347604614848294
+  z: -696.4400139023323
+  yaw: 134.297607421875
+  pitch: 2.8026885986328125
+homes:
+  home:
+    world: 95560218-f390-4219-8d6a-dec6ed601344
+    world-name: world_the_end
+    x: 2010.3324506103463
+    y: 69.5
+    z: 6500.254726278174
+    yaw: 157.87379455566406
+    pitch: -1.79241144657135

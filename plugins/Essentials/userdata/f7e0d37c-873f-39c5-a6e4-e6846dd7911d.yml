@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.174.194.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673735023222
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675545364125
+  login: 1675544057718
+money: '0'
+last-account-name: Jade
+lastlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 920.2808595178203
+  y: 69.34720000984669
+  z: -950.4442000311723
+  yaw: 77.57183837890625
+  pitch: -34.05021667480469
+logoutlocation:
+  world: c435007c-0f7a-421c-b5b4-c52c6a20e650
+  world-name: world
+  x: 681.6999999880791
+  y: 116.0
+  z: -1121.1120742561125
+  yaw: -178.4969482421875
+  pitch: -13.499979019165039

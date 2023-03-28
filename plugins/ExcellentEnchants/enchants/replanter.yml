@@ -1,0 +1,124 @@
+# Additional placeholders:
+# - %enchantment_trigger_chance%: Enchantment Trigger Chance
+
+# Sets whether this enchantment is a treasure enchantment.
+# Treasure enchantments can only be received via looting, trading, or fishing.
+Is_Treasure: false
+# Enchantment display name. It will be shown in item lore.
+Name: Replanter
+# Enchantment tier. Must be a valid tier identifier from the 'tiers.yml'.
+Tier: common
+# Enchantment description. It will be shown in item lore under enchantment name.
+# You can use 'Enchantment' placeholders: https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Internal-Placeholders
+Description:
+- Automatically replant crops on right click and harvest.
+# Enchantment level settings.
+Level:
+  # Sets the minimal (start) enchantment level. Can not be less than 1.
+  Min: 1
+  # Sets the maximal enchantment level. Can not be less than min. level.
+  # Note: While you can 'bypass' this value by enchant commands, all level-dependant enchantment
+  # settings will have a limit up to this setting.
+  Max: 1
+# A list of conflicting enchantment names.
+# Conflicting enchantments can not be combined on anvils and obtained together on the same item.
+Conflicts: []
+# Enchantment settings for Anvil.
+Anvil:
+  # Sets how much XP levels will be added to the anvil cost when combining custom enchantments.
+  # You can use formulas/expressions here: https://github.com/nulli0n/NexEngine-spigot/wiki/Configuration-Tips#scalable-sections
+  # Level placeholder: %enchantment_level%
+  Merge_Cost: '%enchantment_level%'
+Fishing:
+  # Chance for this enchantment to be obtained via Fishing
+  Chance: 50.0
+  # Here you can set min. and max. level for enchantment generated via Fishing
+  # These levels can not be greater or smaller than the default enchantment min. and max levels.
+  # Set min/max level to -1 to use the default enchantment min/max level value.
+  Level:
+    # Minimal level when obtained via Fishing
+    # Can not be less than enchantment min. level. Set -1 to use enchantment min. level.
+    Min: -1
+    # Maximal level when obtained via Fishing
+    # Can not be greater than enchantment max. level. Set -1 to use enchantment max. level.
+    Max: -1
+# Enchantment settings for Enchanting Table.
+Enchanting_Table:
+  # Sets how much XP levels must be used in enchanting table to obtain this enchantment.
+  # With a default formula '9 * %enchantment_level%' it will be [9, 18, 27] XP levels for [1, 2, 3] enchantment levels.
+  # You can use formulas/expressions here: https://github.com/nulli0n/NexEngine-spigot/wiki/Configuration-Tips#scalable-sections
+  # Level placeholder: %enchantment_level%
+  Level_By_Exp_Cost: '15'
+  # Chance for this enchantment to be obtained via Enchanting_Table
+  Chance: 50.0
+  # Here you can set min. and max. level for enchantment generated via Enchanting Table
+  # These levels can not be greater or smaller than the default enchantment min. and max levels.
+  # Set min/max level to -1 to use the default enchantment min/max level value.
+  Level:
+    # Minimal level when obtained via Enchanting_Table
+    # Can not be less than enchantment min. level. Set -1 to use enchantment min. level.
+    Min: -1
+    # Maximal level when obtained via Enchanting_Table
+    # Can not be greater than enchantment max. level. Set -1 to use enchantment max. level.
+    Max: -1
+Villagers:
+  # Chance for this enchantment to be obtained via Villagers
+  Chance: 50.0
+  # Here you can set min. and max. level for enchantment generated via Villagers
+  # These levels can not be greater or smaller than the default enchantment min. and max levels.
+  # Set min/max level to -1 to use the default enchantment min/max level value.
+  Level:
+    # Minimal level when obtained via Villagers
+    # Can not be less than enchantment min. level. Set -1 to use enchantment min. level.
+    Min: -1
+    # Maximal level when obtained via Villagers
+    # Can not be greater than enchantment max. level. Set -1 to use enchantment max. level.
+    Max: -1
+Loot_Generation:
+  # Chance for this enchantment to be obtained via Loot_Generation
+  Chance: 50.0
+  # Here you can set min. and max. level for enchantment generated via Loot Generation
+  # These levels can not be greater or smaller than the default enchantment min. and max levels.
+  # Set min/max level to -1 to use the default enchantment min/max level value.
+  Level:
+    # Minimal level when obtained via Loot_Generation
+    # Can not be less than enchantment min. level. Set -1 to use enchantment min. level.
+    Min: -1
+    # Maximal level when obtained via Loot_Generation
+    # Can not be greater than enchantment max. level. Set -1 to use enchantment max. level.
+    Max: -1
+Mob_Spawning:
+  # Chance for this enchantment to be obtained via Mob_Spawning
+  Chance: 0.0
+  # Here you can set min. and max. level for enchantment generated via Mob Spawning
+  # These levels can not be greater or smaller than the default enchantment min. and max levels.
+  # Set min/max level to -1 to use the default enchantment min/max level value.
+  Level:
+    # Minimal level when obtained via Mob_Spawning
+    # Can not be less than enchantment min. level. Set -1 to use enchantment min. level.
+    Min: -1
+    # Maximal level when obtained via Mob_Spawning
+    # Can not be greater than enchantment max. level. Set -1 to use enchantment max. level.
+    Max: -1
+# Individual enchantment settings.
+Settings:
+  # A chance that this enchantment will be triggered.
+  # Scalable. Placeholder: %enchantment_level%. See: http://77.222.60.131:8080/plugin/engine/config/formats
+  Trigger_Chance: '100.0'
+  # A cost a player will have to pay to have this enchantment triggered.
+  Cost:
+    # Enables/Disables cost feature.
+    Enabled: false
+    # A (custom) item that player must have in his inventory, that will be consumed to trigger the enchantment effect.
+    # See http://77.222.60.131:8080/plugin/engine/config/formats for item options.
+    Item:
+      Material: AIR
+      Amount: 1
+  # Enchantment replant settings.
+  Replant:
+    # When 'true', player will be able to replant crops when right-clicking farmland blocks.
+    On_Right_Click: true
+    # When 'true', crops will be automatically replanted when player break plants with enchanted tool in hand.
+    On_Plant_Break: true
+  # Enables/Disables enchantment visual effects, such as particles.
+  Visual_Effects: true

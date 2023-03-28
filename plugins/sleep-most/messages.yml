@@ -1,0 +1,63 @@
+# CUSTOMIZE MESSAGES FOR SLEEP-MOST.
+# To disable messages set the message to ''
+# Placeholders are available here --> https://sleepmost.pseudonova.com/placeholders/sleepmost-config
+# You need support? Join our Discord server --> https://discord.pseudonova.com/
+#
+# Add multiple messages to randomly select by doing the following:
+# messagetype:
+#  - 'message1'
+
+prefix: ''
+user:
+  night-skipped-chat: ''
+  storm-skipped-chat: ''
+  players-left-night: ''
+  players-left-storm: ''
+  sleep-prevented: ''
+  no-sleep-storm: ''
+  cannot-sleep-now: ''
+  sleep-success: ''
+  no-longer-sleeping: ''
+  no-bed-location-set: ''
+  teleported-to-bed: ''
+  sleep-command-disabled: ''
+  insomnia-not-sleepy: ''
+  insomnia-feeling-sleepy: ''
+  kicked-player-from-bed: ''
+  kicked-from-bed: ''
+  kicking-not-allowed: ''
+  night-skipped-title: ''
+  night-skipped-subtitle: ''
+  storm-skipped-title: ''
+  storm-skipped-subtitle: ''
+  longer-night:
+    sleep-prevented: ''
+boss-bar:
+  title: ''
+admin:
+  no-console-command: ''
+  no-permission-command: ''
+  unknown-command: ''
+  config-reloaded: ''
+  already-enabled-for-world: ''
+  already-disabled-for-world: ''
+  enabled-for-world: ''
+  disabled-for-world: ''
+  not-enabled-for-world: ''
+  currently-disabled: ''
+  one-player-sleep-set: ''
+  specify-player: ''
+  target-not-sleeping: ''
+  target-not-online: ''
+  insomnia-already-enabled: ''
+  insomnia-enabled: ''
+  only-during-night-command: ''
+  kick-out-bed: ''
+flag:
+  all-reset-success: ''
+  set-in-world: ''
+  reset-in-world: ''
+  not-exist: ''
+clock:
+  title: '&b%time%'
+  subtitle: '&a>>>'
