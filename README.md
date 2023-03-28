@@ -22,7 +22,7 @@ Projet lancé en fin d'année 2022, pour d'une part jouer avec mes amis mais ég
 
 ### Sources des plugins
 
-- https://github.com/PaperMC
+- https://github.com/PaperMC/Paper
 - https://github.com/zeshan321/ActionHealth
 - https://github.com/EssentialsX/Essentials
 - https://github.com/GeyserMC/Geyser
