@@ -3,7 +3,7 @@ Projet lancé en fin d'année 2022, pour d'une part jouer avec mes amis mais ég
 
 
 
-## Caractéristiques du serveur
+### Caractéristiques du serveur
 
 - Minecraft Java en 1.19.3
 - Compatible sur Minecraft Bedrock edition
@@ -11,7 +11,7 @@ Projet lancé en fin d'année 2022, pour d'une part jouer avec mes amis mais ég
 
 
 
-## Setup utilisé
+### Setup utilisé
 
 - 8Go de RAM
 - AMD EPYC 7371 sur 2 cœurs
@@ -20,7 +20,7 @@ Projet lancé en fin d'année 2022, pour d'une part jouer avec mes amis mais ég
 
 
 
-## Sources des plugins
+### Sources des plugins
 
 - https://github.com/PaperMC
 - https://github.com/zeshan321/ActionHealth
